@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'FONTSPRING';
+	src: url('FSP.eot');
+	src:
+		url('FSP.eot?#iefix') format('embedded-opentype'),
+		url('FSP.woff') format('woff'),
+		url('FSP.woff2') format('woff2'),
+		url('FSP.ttf') format('truetype'),
+		url('FSP.svg#FSP DEMO - Allotrope') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
