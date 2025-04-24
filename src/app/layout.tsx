@@ -2,7 +2,7 @@ import '@/assets/styles/main.scss';
 import 'react-loading-skeleton/dist/skeleton.css';
 import type { Metadata, Viewport } from 'next';
 import { Suspense } from 'react';
-import NProgressProvider from '@/app-components/layout/NProgressProvider';
+import { NProgressProvider } from '@/app-components';
 
 export const viewport: Viewport = {
 	width: 'device-width',
